@@ -23,5 +23,16 @@ body {
   color: white;
 }
 .btn-lg {
-  background-color: aquamarine;
+  background-color: black;
+}
+.info {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: lightslategrey;
+}
+.ourreview {
+  text-decoration-line: underline;
+}
+.customer {
+  font-weight: bold;
 }
