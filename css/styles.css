@@ -41,3 +41,8 @@ body {
   text-decoration-style: wavy;
   text-decoration-color: lightslategrey;
 }
+.collection {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: lightslategrey;
+}
