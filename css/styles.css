@@ -13,9 +13,15 @@ body {
 
 
 .jumbotron {
-  background-image: url(../images/headerimage.jpg);
+  background-image: url(../images/slide-4.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   font-weight: bold;
   font-size: 3em;
+}
+.welcome {
+  color: white;
+}
+.btn-lg {
+  background-color: aquamarine;
 }
