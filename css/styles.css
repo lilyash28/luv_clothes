@@ -36,3 +36,8 @@ body {
 .customer {
   font-weight: bold;
 }
+.whatis {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: lightslategrey;
+}
